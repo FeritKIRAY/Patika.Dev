@@ -1,0 +1,2 @@
+module üçve4ebolunensayılar {
+}
